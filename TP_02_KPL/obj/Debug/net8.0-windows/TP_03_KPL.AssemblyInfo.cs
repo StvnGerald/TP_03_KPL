@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TP_02_KPL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TP_03_KPL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1552a9de54934277e7c3d7b6441d392cea8ab8d9")]
-[assembly: System.Reflection.AssemblyProductAttribute("TP_02_KPL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TP_02_KPL")]
+[assembly: System.Reflection.AssemblyProductAttribute("TP_03_KPL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TP_03_KPL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

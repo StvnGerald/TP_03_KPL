@@ -19,6 +19,7 @@ namespace TP_02_KPL
         }
         private void button1_Click(object sender, EventArgs e)
         {
+            label1.Text = "Halo, " + textBox1.Text + "!";
         }
 
     }

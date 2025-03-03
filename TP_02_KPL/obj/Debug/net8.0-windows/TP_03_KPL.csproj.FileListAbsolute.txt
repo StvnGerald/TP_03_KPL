@@ -1,0 +1,7 @@
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.Form1.resources
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.AssemblyInfo.cs
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_03_KPL.sourcelink.json
