@@ -1,0 +1,16 @@
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.Form1.resources
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.AssemblyInfo.cs
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\bin\Debug\net8.0-windows\TP_02_KPL.exe
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\bin\Debug\net8.0-windows\TP_02_KPL.deps.json
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\bin\Debug\net8.0-windows\TP_02_KPL.runtimeconfig.json
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\bin\Debug\net8.0-windows\TP_02_KPL.dll
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\bin\Debug\net8.0-windows\TP_02_KPL.pdb
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.dll
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\refint\TP_02_KPL.dll
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.pdb
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\TP_02_KPL.genruntimeconfig.cache
+C:\Users\steve\source\repos\TP_02_KPL\TP_02_KPL\obj\Debug\net8.0-windows\ref\TP_02_KPL.dll
